@@ -59,7 +59,7 @@ This application implements a pixel-perfect recreation of the PopX mobile app de
 
 ## Technology Stack
 
-- **Next.js 14**: React framework with App Router
+- A React framework with App Router
 - **TypeScript**: Type-safe development
 - **Tailwind CSS**: Utility-first CSS framework
 - **Radix UI**: Accessible component primitives
