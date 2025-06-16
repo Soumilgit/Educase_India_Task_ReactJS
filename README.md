@@ -175,4 +175,4 @@ npm install -g vercel
 
 ## License
 
-MIT License
+![MIT License](https://github.com/Soumilgit/Educase_India_Task_ReactJS/blob/main/LICENSE)
